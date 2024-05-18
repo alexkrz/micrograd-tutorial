@@ -1,4 +1,4 @@
-[submodule "micrograd-karpathy"]
-	path = micrograd-karpathy
+[submodule "micrograd_karpathy"]
+	path = micrograd_karpathy
 	url = https://github.com/karpathy/micrograd.git
 	branch = master
