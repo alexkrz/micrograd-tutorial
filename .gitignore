@@ -3,3 +3,6 @@ __pycache__/
 
 # Checkpoints
 .ipynb_checkpoints/
+
+# Submodules
+/micrograd-karpathy/
